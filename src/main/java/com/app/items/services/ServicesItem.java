@@ -15,6 +15,7 @@ import com.app.items.models.Items;
 import com.app.items.models.Producto;
 
 @Service
+
 public class ServicesItem  implements IServicesItem{
 
 		@Autowired
